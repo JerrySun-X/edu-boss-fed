@@ -1,6 +1,5 @@
 <template>
   <div id="app">
-    <h1>拉钩教育</h1>
     <router-view/>
   </div>
 </template>
@@ -11,5 +10,4 @@ export default Vue.extend({
 })
 </script>
 <style lang="scss" scoped>
-
 </style>
